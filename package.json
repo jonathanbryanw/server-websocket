@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-ws": "^5.0.2",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
